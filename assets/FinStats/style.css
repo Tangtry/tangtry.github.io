@@ -1,0 +1,30 @@
+.inverse, .hljs-github {
+  background-image: url("Figs/back.png"); /* Change this to the url of the image you want as your background */
+  background-size: contain;
+  background-position: bottom
+}
+
+.foot {
+  position: bottom;
+  font-size: 15px;
+}
+
+.center {
+  position: center;
+  font-size: 35px;
+}
+
+.title-slide .remark-slide-number {
+  display: none;
+}
+
+.scroll-output {
+  height: 70%;
+  overflow-y: scroll;
+}
+
+
+.scroll-box-20 {
+  height:20em;
+  overflow-y: scroll;
+}
